@@ -1,1 +1,1 @@
-# exercicios
+# Esse repositório é para os exercícios de Gabriel
